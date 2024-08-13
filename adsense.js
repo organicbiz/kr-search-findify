@@ -1,7 +1,7 @@
 const urlCheck = () => {
   // 'MTI3LjAuMC4x' // '127.0.0.1'
   // 'c3RhcnR1cC1mYWN0b3J5LmNvLmty' // 'startup-factory.co.kr'
-  // 'c2VhcmNoLWZpbmRpZnkuY29t' // '*.search-findify.com'
+  // 'c2VhcmNoLWZpbmRpZnkuY29t' // 'kr.search-findify.com'
   // 'NzU1Njc4MzIudGlzdG9yeS5jb20=' // '75567832.tistory.com
   const allowURLs = ['MTI3LjAuMC4x', 'c3RhcnR1cC1mYWN0b3J5LmNvLmty', 'c2VhcmNoLWZpbmRpZnkuY29t', 'NzU1Njc4MzIudGlzdG9yeS5jb20='];
   let result = false;
