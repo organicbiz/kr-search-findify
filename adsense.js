@@ -1,1 +1,224 @@
-function _0x5979(_0x5604f0, _0x2372c7) { const _0x3d4bf2 = _0x2218(); return _0x5979 = function (_0x43e626, _0x12b0da) { _0x43e626 = _0x43e626 - 0x7b; let _0x62f600 = _0x3d4bf2[_0x43e626]; return _0x62f600; }, _0x5979(_0x5604f0, _0x2372c7); } const _0x38d510 = _0x5979; (function (_0x4896d3, _0x93bba2) { const _0x2b1163 = _0x5979, _0x171f82 = _0x4896d3(); while (!![]) { try { const _0x5b3ff6 = parseInt(_0x2b1163(0xd3)) / 0x1 * (parseInt(_0x2b1163(0x7b)) / 0x2) + -parseInt(_0x2b1163(0xc7)) / 0x3 + -parseInt(_0x2b1163(0xd0)) / 0x4 * (-parseInt(_0x2b1163(0xd5)) / 0x5) + -parseInt(_0x2b1163(0xb4)) / 0x6 + parseInt(_0x2b1163(0xc8)) / 0x7 + parseInt(_0x2b1163(0xe1)) / 0x8 + -parseInt(_0x2b1163(0xb0)) / 0x9; if (_0x5b3ff6 === _0x93bba2) break; else _0x171f82['push'](_0x171f82['shift']()); } catch (_0x3019be) { _0x171f82['push'](_0x171f82['shift']()); } } }(_0x2218, 0x72928)); const _0x595781 = (function () { let _0x136ded = !![]; return function (_0x32f46b, _0x1e81a9) { const _0xfe6a6d = _0x136ded ? function () { const _0x2e8f74 = _0x5979; if (_0x1e81a9) { const _0x21aae3 = _0x1e81a9[_0x2e8f74(0xba)](_0x32f46b, arguments); return _0x1e81a9 = null, _0x21aae3; } } : function () { }; return _0x136ded = ![], _0xfe6a6d; }; }()), _0x265e29 = _0x595781(this, function () { const _0x761b0c = _0x5979; return _0x265e29['toString']()[_0x761b0c(0xa2)]('(((.+)+)+)+$')[_0x761b0c(0xb1)]()[_0x761b0c(0xd8)](_0x265e29)[_0x761b0c(0xa2)](_0x761b0c(0xab)); }); _0x265e29(); function _0x2218() { const _0x1a3fe5 = ['#app\x20input[type=text].gsc-input', '1731086ztpViE', 'replaceState', 'debu', 'find', 'charCodeAt', '\x22\x20alt=\x22favicon\x22\x20class=\x22favicon\x22\x20onerror=\x22hideImage(this)\x22>', 'prototype', 'pushstate', 'each', '.gsc-richsnippet-individual-snippet-valueelem', '허용되지\x20않은\x20접근입니다.', 'pop', '>div', 'append', 'indexOf', 'text', 'remove', '.box-url', '\x22\x20alt=\x22favicon\x22\x20class=\x22favicon\x22\x20onerror=\x22hideImage(this)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22box-txt\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20class=\x22txt-site-name\x22>\x20</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22box-url\x22><a\x20href=\x22', 'gger', 'parent', 'includes', 'c2VhcmNoLWZpbmRpZnkuY29t', 'fromCharCode', 'slice', 'img', 'click', 'dispatchEvent', 'prepend', 'ogSiteName', 'length', 'hide', '<img\x20class=\x22img-favicon\x20msapplication\x22\x20src=\x22', 'while\x20(true)\x20{}', '.txt-site-name', 'locationchange', 'split', 'contents', 'bind', 'search', 'console', 'counter', 'call', 'NzU1Njc4MzIudGlzdG9yeS5jb20=', 'gsc.q=', 'createElement', '.box-favicon', 'MTI3LjAuMC4x', '(((.+)+)+)+$', 'error', '.gsc-richsnippet-individual-snippet-keyelem', 'trace', 'warn', '16934022UTJDuP', 'toString', '[AEdrPIdUNyOxBLZxchzqeVdEFT]', 'function\x20*\x5c(\x20*\x5c)', '2607168UAJDlA', 'input', 'host', 'return\x20(function()\x20', '</p>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22box-og\x20box-sponsor-og\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22box-favicon\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20focusable=\x22false\x22\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20viewBox=\x220\x200\x2024\x2024\x22><path\x20d=\x22M12\x202C6.48\x202\x202\x206.48\x202\x2012s4.48\x2010\x2010\x2010\x2010-4.48\x2010-10S17.52\x202\x2012\x202zm-1\x2017.93c-3.95-.49-7-3.85-7-7.93\x200-.62.08-1.21.21-1.79L9\x2015v1c0\x201.1.9\x202\x202\x202v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55\x200\x201-.45\x201-1V7h2c1.1\x200\x202-.9\x202-2v-.41c2.93\x201.19\x205\x204.06\x205\x207.41\x200\x202.08-.8\x203.97-2.1\x205.39z\x22></path></svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20class=\x22img-favicon\x22\x20src=\x22', 'https://icon.horse/icon/', 'apply', 'action', '[pNZlDtPKCYjpWqgvqbztWUguBuvJVkvAXzBQUHbqU]', 'map', '.gsc-webResult.gsc-result', 'exception', 'applicationName', 'gsc.q', 'test', 'AaEbdorPIduUNtyO:blxaBnLkZxchzqeVdEFT', 'addClass', 'stateObject', 'styles.css', '1045386mMQOdy', '4935049JgTuPA', 'http://', '{}.constructor(\x22return\x20this\x22)(\x20)', '.gsc-richsnippet-popup-box-title-url', 'log', 'val', 'load', '.styleable-rootcontainer', '2528560BebEFE', '\x0a\x20\x20\x20\x20<p\x20class=\x22txt-sponsor\x22>', 'closest', '1OJOLRd', 'info', '5VhZINK', '../', 'a.gs-title', 'constructor', '.gsc-adBlock', 'textContent', 'https://', '.gsc-richsnippet-showsnippet-label', 'style', 'attr', 'msapplicationTileimage', 'href', '7449168nsfSib', 'replace', '.gsc-url-top', '#app', 'scrollTop', 'location', 'hasSearchResult', 'pushState', 'chain', 'head', '<div\x20class=\x22box-og\x22><div\x20class=\x22box-favicon\x22><svg\x20focusable=\x22false\x22\x20xmlns=\x22http://www.w3.org/2000/svg\x22\x20viewBox=\x220\x200\x2024\x2024\x22><path\x20d=\x22M12\x202C6.48\x202\x202\x206.48\x202\x2012s4.48\x2010\x2010\x2010\x2010-4.48\x2010-10S17.52\x202\x2012\x202zm-1\x2017.93c-3.95-.49-7-3.85-7-7.93\x200-.62.08-1.21.21-1.79L9\x2015v1c0\x201.1.9\x202\x202\x202v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55\x200\x201-.45\x201-1V7h2c1.1\x200\x202-.9\x202-2v-.41c2.93\x201.19\x205\x204.06\x205\x207.41\x200\x202.08-.8\x203.97-2.1\x205.39z\x22></path></svg></div><div\x20class=\x22box-txt\x22><p\x20class=\x22txt-site-name\x22>\x20</p><div\x20class=\x22box-url\x22></div></div></div>', 'getElementsByClassName', 'html', 'replaceAll', 'addEventListener', '\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)']; _0x2218 = function () { return _0x1a3fe5; }; return _0x2218(); } const _0x2e3c60 = (function () { let _0x3eab9e = !![]; return function (_0x1a7239, _0x5defc7) { const _0x11f799 = _0x3eab9e ? function () { const _0x1e7af0 = _0x5979; if (_0x5defc7) { const _0xce1946 = _0x5defc7[_0x1e7af0(0xba)](_0x1a7239, arguments); return _0x5defc7 = null, _0xce1946; } } : function () { }; return _0x3eab9e = ![], _0x11f799; }; }()), _0x5ad227 = _0x2e3c60(this, function () { const _0x4def97 = _0x5979, _0x249899 = function () { let _0x5dd273; try { _0x5dd273 = Function('return\x20(function()\x20' + '{}.constructor(\x22return\x20this\x22)(\x20)' + ');')(); } catch (_0x5a9c26) { _0x5dd273 = window; } return _0x5dd273; }, _0x47ef0a = _0x249899(), _0x58f561 = new RegExp(_0x4def97(0xbc), 'g'), _0x24e9d8 = 'speaNrcZlDhtPK-fCinYdifjy.copmWqgvqbztWUguBuvJVkvAXzBQUHbqU'[_0x4def97(0xe2)](_0x58f561, '')['split'](';'); let _0x192485, _0xec5844, _0x53b8f5, _0x36d6ed; const _0x5c7faa = function (_0x5b982a, _0x57b1a7, _0x1a0249) { const _0x3c2e22 = _0x4def97; if (_0x5b982a['length'] != _0x57b1a7) return ![]; for (let _0x360897 = 0x0; _0x360897 < _0x57b1a7; _0x360897++) { for (let _0x4227a5 = 0x0; _0x4227a5 < _0x1a0249[_0x3c2e22(0x99)]; _0x4227a5 += 0x2) { if (_0x360897 == _0x1a0249[_0x4227a5] && _0x5b982a[_0x3c2e22(0x7f)](_0x360897) != _0x1a0249[_0x4227a5 + 0x1]) return ![]; } } return !![]; }, _0x25bbf9 = function (_0x1a2adc, _0x4ef00b, _0x1d450b) { return _0x5c7faa(_0x4ef00b, _0x1d450b, _0x1a2adc); }, _0xedbf8 = function (_0x43b892, _0x297d46, _0x3126da) { return _0x25bbf9(_0x297d46, _0x43b892, _0x3126da); }, _0x51fb7a = function (_0x40e540, _0x359129, _0x555f7d) { return _0xedbf8(_0x359129, _0x555f7d, _0x40e540); }; for (let _0x136c92 in _0x47ef0a) { if (_0x5c7faa(_0x136c92, 0x8, [0x7, 0x74, 0x5, 0x65, 0x3, 0x75, 0x0, 0x64])) { _0x192485 = _0x136c92; break; } } for (let _0x3d4d3f in _0x47ef0a[_0x192485]) { if (_0x51fb7a(0x6, _0x3d4d3f, [0x5, 0x6e, 0x0, 0x64])) { _0xec5844 = _0x3d4d3f; break; } } for (let _0x3eca96 in _0x47ef0a[_0x192485]) { if (_0xedbf8(_0x3eca96, [0x7, 0x6e, 0x0, 0x6c], 0x8)) { _0x53b8f5 = _0x3eca96; break; } } if (!('~' > _0xec5844)) for (let _0x33fee5 in _0x47ef0a[_0x192485][_0x53b8f5]) { if (_0x25bbf9([0x7, 0x65, 0x0, 0x68], _0x33fee5, 0x8)) { _0x36d6ed = _0x33fee5; break; } } if (!_0x192485 || !_0x47ef0a[_0x192485]) return; const _0x337a57 = _0x47ef0a[_0x192485][_0xec5844], _0x42cbec = !!_0x47ef0a[_0x192485][_0x53b8f5] && _0x47ef0a[_0x192485][_0x53b8f5][_0x36d6ed], _0x218c6d = _0x337a57 || _0x42cbec; if (!_0x218c6d) return; let _0xb416ae = ![]; for (let _0x181d7a = 0x0; _0x181d7a < _0x24e9d8['length']; _0x181d7a++) { const _0x22863c = _0x24e9d8[_0x181d7a], _0x5c2818 = _0x22863c[0x0] === String[_0x4def97(0x92)](0x2e) ? _0x22863c[_0x4def97(0x93)](0x1) : _0x22863c, _0x1ae7fb = _0x218c6d[_0x4def97(0x99)] - _0x5c2818[_0x4def97(0x99)], _0x518764 = _0x218c6d[_0x4def97(0x89)](_0x5c2818, _0x1ae7fb), _0x34de31 = _0x518764 !== -0x1 && _0x518764 === _0x1ae7fb; _0x34de31 && ((_0x218c6d[_0x4def97(0x99)] == _0x22863c['length'] || _0x22863c[_0x4def97(0x89)]('.') === 0x0) && (_0xb416ae = !![])); } if (!_0xb416ae) { const _0x159d4a = new RegExp(_0x4def97(0xb2), 'g'), _0xd7f571 = _0x4def97(0xc3)[_0x4def97(0xe2)](_0x159d4a, ''); _0x47ef0a[_0x192485][_0x53b8f5] = _0xd7f571; } }); _0x5ad227(); const _0x337253 = (function () { let _0x35d14c = !![]; return function (_0x2b917a, _0x2d1638) { const _0x26b43a = _0x35d14c ? function () { const _0x3fff0f = _0x5979; if (_0x2d1638) { const _0x1067b4 = _0x2d1638[_0x3fff0f(0xba)](_0x2b917a, arguments); return _0x2d1638 = null, _0x1067b4; } } : function () { }; return _0x35d14c = ![], _0x26b43a; }; }()); (function () { _0x337253(this, function () { const _0x3c2358 = _0x5979, _0x57de63 = new RegExp(_0x3c2358(0xb3)), _0x3130b5 = new RegExp(_0x3c2358(0xf0), 'i'), _0x416b06 = _0x56780e('init'); !_0x57de63[_0x3c2358(0xc2)](_0x416b06 + _0x3c2358(0xe9)) || !_0x3130b5[_0x3c2358(0xc2)](_0x416b06 + _0x3c2358(0xb5)) ? _0x416b06('0') : _0x56780e(); })(); }()); const _0x12b0da = (function () { let _0xd1cf02 = !![]; return function (_0x45d79a, _0x54f887) { const _0x29645a = _0xd1cf02 ? function () { if (_0x54f887) { const _0x1be959 = _0x54f887['apply'](_0x45d79a, arguments); return _0x54f887 = null, _0x1be959; } } : function () { }; return _0xd1cf02 = ![], _0x29645a; }; }()), _0x43e626 = _0x12b0da(this, function () { const _0x36e361 = _0x5979; let _0x27cdbb; try { const _0x3ca887 = Function(_0x36e361(0xb7) + _0x36e361(0xca) + ');'); _0x27cdbb = _0x3ca887(); } catch (_0x1262a6) { _0x27cdbb = window; } const _0x4a0e84 = _0x27cdbb['console'] = _0x27cdbb[_0x36e361(0xa3)] || {}, _0x46a2ed = [_0x36e361(0xcc), _0x36e361(0xaf), _0x36e361(0xd4), _0x36e361(0xac), _0x36e361(0xbf), 'table', _0x36e361(0xae)]; for (let _0x540895 = 0x0; _0x540895 < _0x46a2ed[_0x36e361(0x99)]; _0x540895++) { const _0x5a9a40 = _0x12b0da[_0x36e361(0xd8)][_0x36e361(0x81)][_0x36e361(0xa1)](_0x12b0da), _0x46ed0a = _0x46a2ed[_0x540895], _0x93e1c5 = _0x4a0e84[_0x46ed0a] || _0x5a9a40; _0x5a9a40['__proto__'] = _0x12b0da[_0x36e361(0xa1)](_0x12b0da), _0x5a9a40[_0x36e361(0xb1)] = _0x93e1c5[_0x36e361(0xb1)][_0x36e361(0xa1)](_0x93e1c5), _0x4a0e84[_0x46ed0a] = _0x5a9a40; } }); _0x43e626(); const urlCheck = () => { const _0x12b7ff = _0x5979, _0x4079ad = [_0x12b7ff(0xaa), 'c3RhcnR1cC1mYWN0b3J5LmNvLmty', _0x12b7ff(0x91), _0x12b7ff(0xa6)]; let _0x3e9ec9 = ![]; return _0x4079ad[_0x12b7ff(0xbd)](_0x327e25 => { const _0x2c148d = _0x12b7ff; window['location'][_0x2c148d(0xb6)][_0x2c148d(0x90)](atob(_0x327e25)) && (!_0x3e9ec9 && (_0x3e9ec9 = !![])); }), !_0x3e9ec9 && ($(_0x12b7ff(0xea))[_0x12b7ff(0x8b)](), $(function () { const _0xbbd2a3 = _0x12b7ff; $('body')[_0xbbd2a3(0xed)](_0xbbd2a3(0x85)); })), _0x3e9ec9; }; urlCheck(); var pushState = history[_0x38d510(0xe8)], replaceState = history[_0x38d510(0x7c)]; const requestURL = []; let page = 0x0; const hideImage = _0x46c352 => { const _0x5396c3 = _0x38d510; $(_0x46c352)[_0x5396c3(0x8b)](); }, putSiteName = (_0x3b1b44, _0x1f22f4, _0x21f1ec) => { const _0xed03ee = _0x38d510; $(_0xed03ee(0xad))[_0xed03ee(0x99)] === 0x0 && _0x1f22f4[_0xed03ee(0xd2)](_0xed03ee(0xbe))[_0xed03ee(0x7e)](_0xed03ee(0x9d))['text'](_0x21f1ec); if (_0x3b1b44[_0xed03ee(0x8a)]()[_0xed03ee(0x90)](_0xed03ee(0x98))) _0x1f22f4[_0xed03ee(0xd2)](_0xed03ee(0xbe))[_0xed03ee(0x7e)](_0xed03ee(0x9d))[_0xed03ee(0x8a)](_0x3b1b44[_0xed03ee(0x8f)]()[_0xed03ee(0x7e)](_0xed03ee(0x84))[_0xed03ee(0x8a)]()); else { if (_0x3b1b44[_0xed03ee(0x8a)]()['includes'](_0xed03ee(0xc0))) _0x1f22f4['closest'](_0xed03ee(0xbe))['find']('.txt-site-name')[_0xed03ee(0x8a)](_0x3b1b44[_0xed03ee(0x8f)]()['find'](_0xed03ee(0x84))[_0xed03ee(0x8a)]()); else { if (_0x1f22f4['closest']('.gsc-webResult.gsc-result')[_0xed03ee(0x7e)]('a.gs-title')['text']()[_0xed03ee(0x9f)]('|')[_0xed03ee(0x99)] > 0x1) { const _0x3cb31b = _0x1f22f4['closest'](_0xed03ee(0xbe))['find'](_0xed03ee(0xd7))[_0xed03ee(0x8a)]()[_0xed03ee(0x9f)]('|')[_0xed03ee(0x86)](); _0x1f22f4[_0xed03ee(0xd2)](_0xed03ee(0xbe))[_0xed03ee(0x7e)](_0xed03ee(0x9d))['text'](_0x3cb31b); } else _0x1f22f4[_0xed03ee(0xd2)](_0xed03ee(0xbe))[_0xed03ee(0x7e)](_0xed03ee(0x9d))['text'](_0x21f1ec); } } }, putFavicon = async (_0xb5d713, _0x4fc73c, _0x7ad99) => { const _0x111adf = _0x38d510, _0x54c9e0 = _0x4fc73c[_0x111adf(0xd2)]('.gsc-webResult.gsc-result')[_0x111adf(0x7e)](_0x111adf(0xa9)); if (_0xb5d713[_0x111adf(0x8a)]()[_0x111adf(0x90)](_0x111adf(0xdf)) || _0xb5d713[_0x111adf(0x8a)]()[_0x111adf(0x90)]('naverblogProfileImage')) { const _0x5d32e1 = _0xb5d713[_0x111adf(0x8f)]()[_0x111adf(0x7e)](_0x111adf(0x84))['text'](); _0x54c9e0[_0x111adf(0x97)](_0x111adf(0x9b) + _0x5d32e1 + _0x111adf(0x80)), requestURL['push'](_0x7ad99); } else { if (_0x54c9e0['find']('.img-favicon.msapplication')['length'] === 0x0 && requestURL[_0x111adf(0x89)](_0x7ad99) === -0x1) { requestURL['push'](_0x7ad99), _0x7ad99 = _0x7ad99[_0x111adf(0xe2)](_0x111adf(0xdb), '')['replace'](_0x111adf(0xc9), '')[_0x111adf(0xee)](_0x111adf(0xd6), '')[_0x111adf(0xee)]('www.', ''); const _0x57923b = _0x111adf(0xb9) + _0x7ad99; _0x4fc73c[_0x111adf(0xd2)](_0x111adf(0xbe))['find']('.box-favicon')[_0x111adf(0x97)]('<img\x20class=\x22img-favicon\x22\x20src=\x22' + _0x57923b + '\x22\x20alt=\x22favicon\x22\x20class=\x22favicon\x22\x20onerror=\x22hideImage(this)\x22>'); } } }, putOgData = _0x35f6f7 => { const _0x3b1d81 = _0x38d510; for (let _0x38a6f9 = 0x0; _0x38a6f9 < _0x35f6f7; _0x38a6f9++) { const _0x416d0d = $(_0x3b1d81(0xdc))['eq'](_0x38a6f9); _0x416d0d[_0x3b1d81(0x95)](); const _0x280511 = $(_0x3b1d81(0xcb))[_0x3b1d81(0x8a)](), _0x78f05c = new URL(_0x280511)['origin']; _0x416d0d[_0x3b1d81(0xd2)](_0x3b1d81(0xbe))[_0x3b1d81(0x97)](_0x3b1d81(0xeb)); const _0x191523 = _0x416d0d['closest']('.gsc-webResult.gsc-result')[_0x3b1d81(0x7e)](_0x3b1d81(0xe3)), _0x1e55dd = _0x191523['clone'](); _0x416d0d[_0x3b1d81(0xd2)]('.gsc-webResult.gsc-result')[_0x3b1d81(0x7e)](_0x3b1d81(0x8c))['append'](_0x1e55dd), _0x191523[_0x3b1d81(0x8b)](), $(_0x3b1d81(0xad))[_0x3b1d81(0x83)](function () { putFavicon($(this), _0x416d0d, _0x78f05c), putSiteName($(this), _0x416d0d, _0x78f05c); }); } }, putSponsorCSS = async () => { const _0x1f90b9 = _0x38d510; if ($(_0x1f90b9(0xd9))[_0x1f90b9(0x99)] > 0x0) { const _0x16ec71 = await $['ajax']({ 'url': _0x1f90b9(0xc6) }); $('iframe')[_0x1f90b9(0x83)](function () { const _0x5bd21e = _0x1f90b9; $(this)['on'](_0x5bd21e(0xce), function () { const _0x22e7be = _0x5bd21e, _0x12366c = $(this)[_0x22e7be(0xa0)](), _0x2a084c = document[_0x22e7be(0xa8)](_0x22e7be(0xdd)); _0x2a084c[_0x22e7be(0xda)] = _0x16ec71, _0x12366c['find'](_0x22e7be(0xea))[_0x22e7be(0x88)](_0x2a084c); }); }); } }; history[_0x38d510(0xe8)] = function () { const _0x38eecf = _0x38d510; var _0x1849eb = pushState[_0x38eecf(0xba)](history, arguments); return window[_0x38eecf(0x96)](new Event(_0x38eecf(0x82))), window[_0x38eecf(0x96)](new Event('locationchange')), _0x1849eb; }, history[_0x38d510(0x7c)] = function () { const _0x43d34b = _0x38d510; var _0x4c7116 = replaceState[_0x43d34b(0xba)](history, arguments); return window[_0x43d34b(0x96)](new Event('replacestate')), window[_0x43d34b(0x96)](new Event(_0x43d34b(0x9e))), _0x4c7116; }, window[_0x38d510(0xef)]('popstate', function () { const _0x4524bd = _0x38d510; window[_0x4524bd(0x96)](new Event(_0x4524bd(0x9e))); }), window[_0x38d510(0xef)]('locationchange', function () { const _0x1bd831 = _0x38d510; if (window[_0x1bd831(0xe6)]['href'][_0x1bd831(0x89)]('gsc.q') > -0x1) { urlCheck(); let _0x2c75ee = 0x0; const _0x50c172 = setInterval(function () { const _0x46128c = _0x1bd831; _0x2c75ee++, $(_0x46128c(0xed))[_0x46128c(0xe5)](0x0); if (_0x2c75ee > 0xa) clearInterval(_0x50c172); }, 0x64); setTimeout(function () { const _0x1ac579 = setInterval(function () { const _0x13df51 = _0x5979; let _0x3ef7af = document[_0x13df51(0xec)]('gsc-result')[_0x13df51(0x99)]; _0x3ef7af && (clearInterval(_0x1ac579), putOgData(_0x3ef7af), putSponsorOgData(), putSponsorCSS()); }, 0x64); }, 0x3e8); } }); const putQuery = () => { const _0x74c16e = _0x38d510, _0x36c8a8 = window['location'][_0x74c16e(0xe0)][_0x74c16e(0x9f)](_0x74c16e(0xa7))[0x1]?.['split']('&')[0x0]; if (_0x36c8a8) { const _0x5572ed = setInterval(function () { const _0x592b69 = _0x74c16e, _0x501267 = decodeURIComponent(_0x36c8a8); $('#app\x20input[type=text].gsc-input')[_0x592b69(0xcd)](_0x501267), $(_0x592b69(0xf1))[_0x592b69(0xcd)]() === _0x501267 && (clearInterval(_0x5572ed), $('#app\x20input[type=submit].gsc-search-button')[_0x592b69(0x95)]()); }, 0x64); } }; $(function () { const _0x17ad57 = _0x38d510; $(_0x17ad57(0x94))['on'](_0x17ad57(0xac), function () { const _0x4bf0fc = _0x17ad57; $(this)[_0x4bf0fc(0x8b)](); }), putQuery(), putSponsorOgData(); if (window[_0x17ad57(0xe6)][_0x17ad57(0xe0)][_0x17ad57(0x89)](_0x17ad57(0xc1)) > -0x1) { $(_0x17ad57(0xe4))[_0x17ad57(0xc4)](_0x17ad57(0xe7)); const _0x3947d7 = setInterval(function () { const _0x21f9c7 = _0x17ad57; let _0x191b51 = $(_0x21f9c7(0xdc))[_0x21f9c7(0x99)]; _0x191b51 > 0x0 && (clearInterval(_0x3947d7), putOgData(_0x191b51), putSponsorCSS()); }, 0x64); } }); const putSponsorOgData = () => { const _0x2dbed3 = _0x38d510; $('.styleable-rootcontainer\x20.styleable-visurl')[_0x2dbed3(0x83)](function () { const _0x122a61 = _0x2dbed3; $(this)[_0x122a61(0x8f)]()[_0x122a61(0x9a)](); const _0x302305 = $(this)[_0x122a61(0x8f)]()[_0x122a61(0x7e)](_0x122a61(0x87))['html'](), _0x4b2c2f = $(this)[_0x122a61(0x8a)](), _0x2e3b23 = $(this)[_0x122a61(0xde)](_0x122a61(0xe0)), _0x138c5b = _0x4b2c2f[_0x122a61(0xe2)](_0x122a61(0xdb), '')[_0x122a61(0xe2)](_0x122a61(0xc9), '')[_0x122a61(0xee)]('www.', ''), _0x555ce5 = _0x122a61(0xb9) + _0x138c5b; $(this)['closest'](_0x122a61(0xcf))[_0x122a61(0x97)](_0x122a61(0xd1) + _0x302305 + _0x122a61(0xb8) + _0x555ce5 + _0x122a61(0x8d) + _0x2e3b23 + '\x22>' + _0x4b2c2f + '</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20'); }); }; function _0x56780e(_0x5512b5) { function _0x508c2f(_0x5c7e2c) { const _0x227bea = _0x5979; if (typeof _0x5c7e2c === 'string') return function (_0x2465c8) { }[_0x227bea(0xd8)](_0x227bea(0x9c))[_0x227bea(0xba)](_0x227bea(0xa4)); else ('' + _0x5c7e2c / _0x5c7e2c)[_0x227bea(0x99)] !== 0x1 || _0x5c7e2c % 0x14 === 0x0 ? function () { return !![]; }[_0x227bea(0xd8)](_0x227bea(0x7d) + _0x227bea(0x8e))[_0x227bea(0xa5)](_0x227bea(0xbb)) : function () { return ![]; }[_0x227bea(0xd8)]('debu' + _0x227bea(0x8e))['apply'](_0x227bea(0xc5)); _0x508c2f(++_0x5c7e2c); } try { if (_0x5512b5) return _0x508c2f; else _0x508c2f(0x0); } catch (_0x5a2169) { } }
+const urlCheck = () => {
+  // 'MTI3LjAuMC4x' // '127.0.0.1'
+  // 'c3RhcnR1cC1mYWN0b3J5LmNvLmty' // 'startup-factory.co.kr'
+  // 'c2VhcmNoLWZpbmRpZnkuY29t' // '*.search-findify.com'
+  // 'NzU1Njc4MzIudGlzdG9yeS5jb20=' // '75567832.tistory.com
+  const allowURLs = ['MTI3LjAuMC4x', 'c3RhcnR1cC1mYWN0b3J5LmNvLmty', 'c2VhcmNoLWZpbmRpZnkuY29t', 'NzU1Njc4MzIudGlzdG9yeS5jb20='];
+  let result = false;
+
+  allowURLs.map((url) => {
+    if (window.location.host.includes(atob(url))) {
+      if (!result) {
+        result = true;
+      }
+    }
+  });
+
+  if (!result) {
+    $('head').remove();
+    $(function () {
+      $('body').html('허용되지 않은 접근입니다.');
+    })
+  }
+
+  return result;
+}
+
+urlCheck();
+
+var pushState = history.pushState;
+var replaceState = history.replaceState;
+
+const requestURL = [];
+let page = 0;
+
+const hideImage = (img) => {
+  $(img).remove();
+}
+
+const putSiteName = (keyelem, label, host) => {
+  if ($('.gsc-richsnippet-individual-snippet-keyelem').length === 0) {
+    label.closest('.gsc-webResult.gsc-result').find('.txt-site-name').text(host)
+  }
+
+  if (keyelem.text().includes('ogSiteName')) {
+    label.closest('.gsc-webResult.gsc-result').find('.txt-site-name').text(keyelem.parent().find('.gsc-richsnippet-individual-snippet-valueelem').text())
+  } else if (keyelem.text().includes('applicationName')) {
+    label.closest('.gsc-webResult.gsc-result').find('.txt-site-name').text(keyelem.parent().find('.gsc-richsnippet-individual-snippet-valueelem').text())
+  } else if (label.closest('.gsc-webResult.gsc-result').find('a.gs-title').text().split('|').length > 1) {
+    const siteName = label.closest('.gsc-webResult.gsc-result').find('a.gs-title').text().split('|').pop();
+    label.closest('.gsc-webResult.gsc-result').find('.txt-site-name').text(siteName)
+  } else {
+    label.closest('.gsc-webResult.gsc-result').find('.txt-site-name').text(host)
+  }
+}
+
+const putFavicon = async (keyelem, label, host) => {
+  const faviconBox = label.closest('.gsc-webResult.gsc-result').find('.box-favicon')
+
+  if (keyelem.text().includes('msapplicationTileimage') || keyelem.text().includes('naverblogProfileImage')) {
+    const url = keyelem.parent().find('.gsc-richsnippet-individual-snippet-valueelem').text();
+    faviconBox.prepend(`<img class="img-favicon msapplication" src="${url}" alt="favicon" class="favicon" onerror="hideImage(this)">`)
+    requestURL.push(host);
+  } else if (faviconBox.find('.img-favicon.msapplication').length === 0 &&
+    requestURL.indexOf(host) === -1) {
+    requestURL.push(host);
+    host = host.replace('https://', '').replace('http://', '').replaceAll('../', '').replaceAll('www.', '');
+    const url = "https://icon.horse/icon/" + host
+    label.closest('.gsc-webResult.gsc-result').find('.box-favicon').prepend(`<img class="img-favicon" src="${url}" alt="favicon" class="favicon" onerror="hideImage(this)">`)
+  }
+}
+
+const putOgData = (length) => {
+  for (let i = 0; i < length; i++) {
+    const label = $('.gsc-richsnippet-showsnippet-label').eq(i);
+    label.click();
+
+    const fullURL = $('.gsc-richsnippet-popup-box-title-url').text();
+    const host = new URL(fullURL).origin;
+
+    label.closest('.gsc-webResult.gsc-result').prepend('<div class="box-og"><div class="box-favicon"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path></svg></div><div class="box-txt"><p class="txt-site-name"> </p><div class="box-url"></div></div></div>')
+    const url = label.closest('.gsc-webResult.gsc-result').find('.gsc-url-top');
+    const urlClone = url.clone();
+    label.closest('.gsc-webResult.gsc-result').find('.box-url').append(urlClone);
+    url.remove();
+
+
+    $('.gsc-richsnippet-individual-snippet-keyelem').each(function () {
+      putFavicon($(this), label, host);
+      putSiteName($(this), label, host);
+    })
+  }
+}
+
+const putSponsorCSS = async () => {
+  if ($('.gsc-adBlock').length > 0) {
+
+    const css = await $.ajax({
+      url: 'styles.css',
+    });
+
+    $('iframe').each((function () {
+      $(this).on('load', function () {
+        const iframeDoc = $(this).contents();
+        const style = document.createElement('style');
+        style.textContent = css;
+        iframeDoc.find('head').append(style);
+      });
+    }))
+  }
+}
+
+history.pushState = function () {
+  var ret = pushState.apply(history, arguments);
+  window.dispatchEvent(new Event('pushstate'));
+  window.dispatchEvent(new Event('locationchange'));
+  return ret;
+};
+
+history.replaceState = function () {
+  var ret = replaceState.apply(history, arguments);
+  window.dispatchEvent(new Event('replacestate'));
+  window.dispatchEvent(new Event('locationchange'));
+  return ret;
+};
+
+window.addEventListener('popstate', function () {
+  window.dispatchEvent(new Event('locationchange'));
+});
+
+window.addEventListener('locationchange', function () {
+  if (window.location.href.indexOf('gsc.q') > -1) {
+    urlCheck();
+    let i = 0;
+    const scrollInterval = setInterval(function () {
+      i++;
+      $('html').scrollTop(0);
+      if (i > 10) clearInterval(scrollInterval)
+    }, 100)
+
+    setTimeout(function () {
+      const interval = setInterval(function () {
+        let length = document.getElementsByClassName('gsc-result').length;
+        if (length) {
+          clearInterval(interval)
+          putOgData(length);
+          putSponsorOgData();
+          putSponsorCSS();
+        }
+      }, 100)
+    }, 1000)
+  }
+});
+
+const putQuery = () => {
+  const searchQuery = window.location.href.split('gsc.q=')[1]?.split('&')[0];
+  if (searchQuery) {
+    const queryInterval = setInterval(function () {
+      const decodedSearchQuery = decodeURIComponent(searchQuery);
+      $('#app input[type=text].gsc-input').val(decodedSearchQuery);
+
+      if ($('#app input[type=text].gsc-input').val() === decodedSearchQuery) {
+        clearInterval(queryInterval);
+        $('#app input[type=submit].gsc-search-button').click();
+      }
+    }, 100)
+  }
+}
+
+$(function () {
+  $('img').on('error', function () {
+    $(this).remove();
+  });
+
+  putQuery();
+  putSponsorOgData();
+
+  if (window.location.href.indexOf('gsc.q') > -1) {
+    $('#app').addClass('hasSearchResult')
+
+    const interval = setInterval(function () {
+      let length = $('.gsc-richsnippet-showsnippet-label').length;
+
+      if (length > 0) {
+        clearInterval(interval)
+        putOgData(length);
+        putSponsorCSS();
+      }
+    }, 100)
+  }
+})
+
+const putSponsorOgData = () => {
+  for (let i = 0; i < $('.gsc-adBlock iframe').length; i++) {
+    const iframe = $('iframe').eq(i);
+    iframe.on('load', function () {
+      const html = iframe.contents();
+      $('.gsc-adBlockInvisible').eq(0).append(`${html.text()}`).show()
+      iframe.hide();
+
+      $('.styleable-rootcontainer .styleable-visurl').each(function () {
+        $(this).parent().hide();
+        const sponsorText = $(this).parent().find('>div').html();
+        const url = $(this).text();
+        const href = $(this).attr('href');
+        const striptedUrl = url.replace('https://', '').replace('http://', '').replaceAll('www.', '');
+        const src = "https://icon.horse/icon/" + striptedUrl
+
+        $(this).closest('.styleable-rootcontainer').prepend(`
+    <p class="txt-sponsor">${sponsorText}</p>
+      <div class="box-og box-sponsor-og">
+        <div class="box-favicon">
+          <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path></svg>
+          <img class="img-favicon" src="${src}" alt="favicon" class="favicon" onerror="hideImage(this)">
+        </div>
+        <div class="box-txt">
+          <p class="txt-site-name"> </p>
+          <div class="box-url"><a href="${href}">${url}</div>
+        </div>
+      </div>
+    `)
+      });
+    });
+  }
+}
